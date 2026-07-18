@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  # 💫 About Me:
-👋 Hello! I'm Newton<br>🚀 E-commerce Developer | Networking Enthusiast | Tech Innovator<br>🔧 Owner of NetMart Kenya and TRUST NETWORKS - providing networking solutions, tech gadgets, and refurbished products.<br>💻 Skilled in WooCommerce, Cloudflare, MikroTik,Cisco,FreeRADIUS, Hotspot management systems and robust server and e-commerce management.<br>🔒 Focused on network security, server management, and SSL integration.<br>🌍 Passionate about exploration and discovery, always eager to learn and experiment with cutting-edge tech.<br><br>🌍 Let's collaborate to create innovative tech solutions.
+👋 Hello!
 
 
 # 💻 Tech Stack:
